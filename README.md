@@ -1,117 +1,107 @@
-# Hi, I'm Duc Anh 👋
+# Duc Anh Nguyen 👋
 
-### Digital Marketing Specialist
+### Digital Marketing Specialist | SEO | Google Ads | GA4 | WordPress
 
-I specialize in SEO, Google Ads, Analytics and WordPress,
-with a focus on building and optimizing digital marketing systems.
+Digital Marketing professional focused on **SEO, website optimization, analytics, and digital marketing** with hands-on experience in the travel industry.
 
----
-
-## 👨‍💻 About Me
-
-I'm a Digital Marketing professional working across:
-
-- SEO & Technical SEO
-- Google Search Ads
-- GA4 & Google Tag Manager
-- WordPress
-- Content Marketing
-- Zalo/ZNS Marketing
-
-I enjoy turning search data, website analytics and campaign
-performance into practical marketing improvements.
+I work across the workflow from **research and strategy to implementation, measurement, and continuous optimization**.
 
 ---
 
-## 🛠️ Skills
+## 🚀 What I Do
 
-### SEO
-- Keyword Research
-- Keyword Clustering
-- Topic Clusters
-- On-page SEO
+- SEO Strategy
+- Keyword Research & Search Intent
+- Topic Clustering & Content Architecture
+- On-Page SEO
 - Technical SEO
+- Content Optimization
 - Internal Linking
+- WordPress Website Optimization
+- UX/UI & Mobile Optimization
 - Google Search Console
-
-### Paid Media
-- Google Search Ads
-- Keyword Strategy
-- Campaign Structure
-- Conversion Tracking
-- Performance Analysis
-
-### Analytics
 - Google Analytics 4
 - Google Tag Manager
-- Google Search Console
-- Conversion Tracking
-
-### Website
-- WordPress
-- HTML
-- CSS
-- Website UX Optimization
-
-### Marketing
-- Content Strategy
+- Google Ads Search Campaigns
 - Zalo/ZNS Marketing
-- Campaign Planning
-- Performance Reporting
 
 ---
 
-## 🔧 Tools
+## 🧩 My Approach
 
-`Google Ads`
-`GA4`
-`GTM`
-`GSC`
-`Screaming Frog`
-`WordPress`
-`Ahrefs`
-`Semrush`
+I focus on connecting SEO strategy with actual website implementation.
 
----
+**Research → Strategy → Implementation → Measurement → Optimization**
 
-## 📂 Featured Projects
+My work combines:
 
-### 🔍 SEO Portfolio
-SEO research, keyword clustering, technical SEO,
-content optimization and internal linking.
-
-### 📊 Google Ads Portfolio
-Search campaign structure, keyword research,
-conversion tracking and campaign analysis.
-
-### 📈 Analytics & Tracking
-GA4 and Google Tag Manager tracking implementations.
-
-### 🌐 WordPress Projects
-Website optimization, SEO implementation and
-front-end customization.
-
-### 📱 ZNS Marketing
-Campaign planning, messaging strategy and
-performance analysis.
+- Search intent and keyword analysis
+- Content and page architecture
+- Technical SEO
+- Website and WordPress implementation
+- Internal linking
+- UX and conversion considerations
+- Analytics and tracking
+- Continuous optimization
 
 ---
 
-## 📊 What I Work With
+## 📂 Portfolio
 
-| Area | Focus |
-|---|---|
-| SEO | Organic Search & Technical SEO |
-| Paid Ads | Google Search Ads |
-| Analytics | GA4 & GTM |
-| Website | WordPress |
-| Content | SEO Content & Topic Clusters |
-| CRM Marketing | ZNS Campaigns |
+### SEO & Digital Marketing Portfolio
+
+A practical portfolio documenting SEO frameworks, case studies, and hands-on digital marketing projects.
+
+**Includes:**
+
+- SEO Frameworks
+- Technical SEO & Google Search Console
+- Content Optimization
+- Keyword Clustering
+- Internal Linking
+- WordPress Website Optimization
+- GA4 & Google Tag Manager
+- Google Ads Search Campaigns
+- Zalo ZNS Campaigns
+
+👉 **[View My SEO & Digital Marketing Portfolio](https://github.com/ducna28work-ai/seo-portfolio)**
 
 ---
 
-## 📫 Connect With Me
+## 🛠️ Tools & Technologies
 
-💼 LinkedIn https://www.linkedin.com/in/%C4%91%E1%BB%A9c-nguy%E1%BB%85n-6aa674361/
+**SEO**
 
-📧 ducna28.work@gmail.com
+Google Search Console · Screaming Frog · Google Search
+
+**Analytics & Tracking**
+
+Google Analytics 4 · Google Tag Manager
+
+**Website**
+
+WordPress · Elementor · WooCommerce · HTML · CSS
+
+**Digital Marketing**
+
+Google Ads · Zalo/ZNS
+
+---
+
+## 📊 Practical Experience
+
+My portfolio focuses on **real-world implementation and practical workflows** rather than theoretical knowledge alone.
+
+Where information can be shared safely, I document implementation evidence and practical examples.
+
+Confidential client, customer, advertising account, campaign, and business-sensitive data are intentionally excluded from public documentation.
+
+---
+
+## 📫 Connect
+
+- GitHub: `ducna28work-ai`
+- LinkedIn: linkedin.com/in/đức-nguyễn-6aa674361/
+---
+
+⭐ Feel free to explore the repositories and case studies below.
