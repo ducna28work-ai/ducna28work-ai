@@ -35,6 +35,5 @@ Website optimization, SEO implementation and front-end customization.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [LinkedIn](YOUR_LINKEDIN_URL)
-- 🌐 Website: [Portfolio](YOUR_WEBSITE_URL)
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: https://www.linkedin.com/in/%C4%91%E1%BB%A9c-nguy%E1%BB%85n-6aa674361/
+- 📧 Email: ducna28.work@gmail.com
