@@ -1,107 +1,154 @@
 # Duc Anh Nguyen 👋
 
-### Digital Marketing Specialist | SEO | Google Ads | GA4 | WordPress
+**Digital Marketing Specialist | SEO | Google Ads | GA4 | WordPress | AI Evaluation**
 
-Digital Marketing professional focused on **SEO, website optimization, analytics, and digital marketing** with hands-on experience in the travel industry.
+Based in Hanoi, Vietnam.
 
-I work across the workflow from **research and strategy to implementation, measurement, and continuous optimization**.
+I work across **SEO, Digital Marketing, AI evaluation, and data quality**, with a focus on structured analysis, practical execution, and evidence-based decision making.
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
-- SEO Strategy
-- Keyword Research & Search Intent
-- Topic Clustering & Content Architecture
-- On-Page SEO
+### SEO & Digital Marketing
+
 - Technical SEO
+- On-page SEO
+- Keyword Research & Clustering
 - Content Optimization
 - Internal Linking
-- WordPress Website Optimization
-- UX/UI & Mobile Optimization
 - Google Search Console
-- Google Analytics 4
-- Google Tag Manager
-- Google Ads Search Campaigns
-- Zalo/ZNS Marketing
+- Google Ads
+- GA4
+- WordPress
+- Zalo ZNS Campaigns
+
+### AI Evaluation & Data Quality
+
+- AI Response Evaluation
+- Instruction Following
+- Factuality & Accuracy
+- Relevance
+- Completeness
+- Response Quality
+- Safety & Policy Compliance
+- Pairwise Comparison
+- Data Quality Evaluation
+- Annotation QA
+- Structured Evaluation
+- Evidence-based Judgment
 
 ---
 
-## 🧩 My Approach
+## Portfolio
 
-I focus on connecting SEO strategy with actual website implementation.
+### SEO & Digital Marketing
 
-**Research → Strategy → Implementation → Measurement → Optimization**
+Practical SEO frameworks, case studies, and digital marketing projects.
+
+**[→ View SEO Portfolio](https://github.com/ducna28work-ai/seo-portfolio)**
+
+Includes:
+
+- SEO Frameworks
+- Technical SEO & GSC
+- Content Optimization
+- Internal Linking
+- Keyword Clustering
+- Google Ads
+- Analytics Tracking
+- WordPress Optimization
+- Zalo ZNS Campaigns
+
+---
+
+### AI Evaluation & Data Quality
+
+A practical portfolio focused on structured AI evaluation, annotation, comparative evaluation, and data quality workflows.
+
+**[→ View AI Evaluation Portfolio](https://github.com/ducna28work-ai/ai-evaluation-portfolio)**
+
+Includes:
+
+- Instruction Following
+- Factuality & Accuracy
+- Relevance
+- Completeness
+- Response Quality
+- Safety & Policy Compliance
+- Pairwise Comparison
+- Data Quality
+- Evaluation Rubrics
+- Synthetic Evaluation Examples
+
+---
+
+## My Approach
+
+I focus on turning requirements into structured evaluation or execution processes.
+
+**Understand → Analyze → Apply Criteria → Identify Evidence → Make a Decision → Document → QA**
+
+For AI evaluation and data quality work, I prioritize:
+
+- Clear evaluation criteria
+- Evidence before judgment
+- Consistent application of rules
+- Reproducible decisions
+- Explicit handling of uncertainty
+- Structured quality assurance
+
+---
+
+## Tools & Technologies
+
+**SEO / Marketing**
+
+`Google Search Console` `Google Ads` `GA4` `Google Tag Manager` `Screaming Frog` `WordPress` `WooCommerce` `Elementor`
+
+**AI / Data Quality**
+
+`AI Evaluation` `Data Annotation` `Quality Assurance` `Structured Evaluation` `Rubric Design` `Pairwise Comparison`
+
+**Other**
+
+`GitHub` `HTML` `SEO Analytics` `Content Optimization`
+
+---
+
+## Practical Experience
 
 My work combines:
 
-- Search intent and keyword analysis
-- Content and page architecture
-- Technical SEO
-- Website and WordPress implementation
-- Internal linking
-- UX and conversion considerations
+- Search engine optimization
+- Website and content optimization
+- Performance analysis
+- Digital advertising
 - Analytics and tracking
-- Continuous optimization
+- Structured AI response evaluation
+- Data quality and annotation review
+
+The repositories on this profile separate these areas into focused portfolios so that each body of work can be reviewed independently.
 
 ---
 
-## 📂 Portfolio
+## Confidentiality
 
-### SEO & Digital Marketing Portfolio
+Portfolio examples are designed to demonstrate methodology and practical thinking without exposing confidential business information.
 
-A practical portfolio documenting SEO frameworks, case studies, and hands-on digital marketing projects.
+I do not publish:
 
-**Includes:**
-
-- SEO Frameworks
-- Technical SEO & Google Search Console
-- Content Optimization
-- Keyword Clustering
-- Internal Linking
-- WordPress Website Optimization
-- GA4 & Google Tag Manager
-- Google Ads Search Campaigns
-- Zalo ZNS Campaigns
-
-👉 **[View My SEO & Digital Marketing Portfolio](https://github.com/ducna28work-ai/seo-portfolio)**
+- Private client data
+- Confidential company information
+- Credentials
+- Proprietary datasets
+- Private evaluation tasks
+- Personally identifiable information
 
 ---
 
-## 🛠️ Tools & Technologies
+## Connect
 
-**SEO**
+**LinkedIn:** [Duc Anh Nguyen](https://www.linkedin.com/in/%C4%91%E1%BB%A9c-nguyễn-6aa674361/)
 
-Google Search Console · Screaming Frog · Google Search
-
-**Analytics & Tracking**
-
-Google Analytics 4 · Google Tag Manager
-
-**Website**
-
-WordPress · Elementor · WooCommerce · HTML · CSS
-
-**Digital Marketing**
-
-Google Ads · Zalo/ZNS
-
----
-
-## 📊 Practical Experience
-
-My portfolio focuses on **real-world implementation and practical workflows** rather than theoretical knowledge alone.
-
-Where information can be shared safely, I document implementation evidence and practical examples.
-
-Confidential client, customer, advertising account, campaign, and business-sensitive data are intentionally excluded from public documentation.
-
----
-
-## 📫 Connect
-
-- GitHub: `ducna28work-ai`
-- LinkedIn: https://www.linkedin.com/in/duc-nguyen-digital/
----
-
-⭐ Feel free to explore the repositories and case studies below.
+**GitHub:** [@ducna28work-ai](https://github.com/ducna28work-ai)
