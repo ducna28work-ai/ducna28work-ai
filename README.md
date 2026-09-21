@@ -149,6 +149,6 @@ I do not publish:
 
 ## Connect
 
-**LinkedIn:** [Duc Anh Nguyen](https://www.linkedin.com/in/%C4%91%E1%BB%A9c-nguyễn-6aa674361/)
+**LinkedIn:** [Duc Anh Nguyen](https://www.linkedin.com/in/duc-nguyen-digital/)
 
 **GitHub:** [@ducna28work-ai](https://github.com/ducna28work-ai)
