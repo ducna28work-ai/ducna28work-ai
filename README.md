@@ -101,7 +101,7 @@ Confidential client, customer, advertising account, campaign, and business-sensi
 ## 📫 Connect
 
 - GitHub: `ducna28work-ai`
-- LinkedIn: https://www.linkedin.com/in/duc-nguyen-digital/
+- LinkedIn: linkedin.com/in/duc-nguyen-digital/
 ---
 
 ⭐ Feel free to explore the repositories and case studies below.
